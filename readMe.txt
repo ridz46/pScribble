@@ -27,4 +27,4 @@ This tool is meant to assist the user in drawing one, two, and three-point persp
 13. In some systems pressing 1, 2, 3, or 4 directly after opening the app might not work. In that case, click on the screen or draw anything random, then press 1, 2, 3, or 4 to activate the desired axes. You can always press x to clear the slate and start afresh with the activated axes.
 
 Thank You.
-Kindly direct your feedback to riddhamanna@gmail.com or if you know me personally.
+Kindly direct your feedback to riddhamanna@gmail.com
