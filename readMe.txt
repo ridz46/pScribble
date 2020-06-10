@@ -8,7 +8,8 @@ dependencies: Install the latest version of Java from https://www.java.com/en/do
 
 If you are a beginner to perspective drawing I would suggest you get a basic idea from this link: https://www.youtube.com/watch?v=Xn_0wEwZNEU
 
-Kindly clone the repo and download as zip. Then extract and open the folder for your specfic operating system. You can delete the other folders.
+Kindly clone the repo and download as zip. Then extract and open the folder for your specfic operating system.
+You can delete the other folders.
 
 This tool is meant to assist the user in drawing one, two, and three-point perspectives.
 1. Open the application (Run as administrator)
